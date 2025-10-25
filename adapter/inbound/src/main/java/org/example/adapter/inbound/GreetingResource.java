@@ -1,4 +1,4 @@
-package org.example;
+package org.example.adapter.inbound;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;
